@@ -21,7 +21,7 @@ repository               : "Haderob/h-besufekad.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "Profile.jpg"
   name             : "Hadero Besufekad Tadele"
   pronouns         : # example: "she/her"  
   bio              : "Robot Perception and Learning"
